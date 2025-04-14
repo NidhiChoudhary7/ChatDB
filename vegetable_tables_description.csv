@@ -1,0 +1,5 @@
+Table,Description
+loss_rate_data,Contains loss rate percentage for each vegetable item along with item names
+veg_category_data,Categorizes vegetables into different types including category code and name
+veg_transaction_data,"Records vegetable sales transactions with date, time, quantity, prices, discounts, and sale type"
+veg_wholesale_data,Stores historical wholesale prices for vegetables by date and item code
