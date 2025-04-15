@@ -22,8 +22,8 @@ Empower users with seamless database interactions—no SQL expertise required!
 
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/0cb5ab6d-9667-403f-be02-585ef31e8765" />
 
+<img width="1449" alt="image" src="https://github.com/user-attachments/assets/77c5a657-0cf1-4493-8c82-3b13d40ffb39" />
 
-<img width="1488" alt="image" src="https://github.com/user-attachments/assets/92feaf05-ec12-45d5-9cd5-5e113105fa47" />
 
 
 
