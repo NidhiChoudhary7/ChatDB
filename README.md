@@ -20,5 +20,10 @@ Convert natural language to MongoDB queries (find, aggregate, lookup, etc.)
 Modify data using natural language commands
 Empower users with seamless database interactions—no SQL expertise required! 
 
-<img width="1461" alt="image" src="https://github.com/user-attachments/assets/c22a24cd-c592-43ed-9f8c-7db34f972ee9" />
+<img width="1500" alt="image" src="https://github.com/user-attachments/assets/0cb5ab6d-9667-403f-be02-585ef31e8765" />
+
+
+<img width="1488" alt="image" src="https://github.com/user-attachments/assets/92feaf05-ec12-45d5-9cd5-5e113105fa47" />
+
+
 
