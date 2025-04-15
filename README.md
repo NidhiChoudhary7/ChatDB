@@ -19,3 +19,6 @@ Explore collections and sample documents
 Convert natural language to MongoDB queries (find, aggregate, lookup, etc.)
 Modify data using natural language commands
 Empower users with seamless database interactions—no SQL expertise required! 
+
+<img width="1461" alt="image" src="https://github.com/user-attachments/assets/c22a24cd-c592-43ed-9f8c-7db34f972ee9" />
+
